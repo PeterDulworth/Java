@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.*;
 
-public class systemSolver {
+public class SystemSolver {
 
 	public static void main(String[] args ) {
 

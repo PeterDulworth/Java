@@ -1,0 +1,5 @@
+check box - display steps or not
+drop down menu for different numbers of equations
+drop down menu to choose between matrix form , vector form, eqn, form
+different layout
+buttons to add rows and columns
